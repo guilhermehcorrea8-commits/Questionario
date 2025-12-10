@@ -26,7 +26,6 @@ while (true)
     }
     else
     {
-        Console.WriteLine("Opção inválida!");
-        Console.ReadLine();
+        Console.WriteLine("Opção inválida!\n");
     }
 }
