@@ -12,3 +12,4 @@ C:\Users\65138624\Documents\aula 1012\obj\Debug\net8.0\refint\aula 1012.dll
 C:\Users\65138624\Documents\aula 1012\obj\Debug\net8.0\aula 1012.pdb
 C:\Users\65138624\Documents\aula 1012\obj\Debug\net8.0\aula 1012.genruntimeconfig.cache
 C:\Users\65138624\Documents\aula 1012\obj\Debug\net8.0\ref\aula 1012.dll
+C:\Users\65138624\Documents\aula 1012\obj\Debug\net8.0\aula 1012.sourcelink.json
